@@ -1,1 +1,1 @@
-define({"../Content/Topic.htm":0,});
+define({"../Content/NEW.htm":1,"../Content/Topic.htm":0,});
