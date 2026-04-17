@@ -1,1 +1,1 @@
-define({"0":{y:0,u:"../Content/Topic.htm",l:-1,t:"Topic Title",i:1,a:"Topic Title Delete this text and replace it with your own content.   File System publish"},});
+define({"0":{y:0,u:"../Content/Topic.htm",l:-1,t:"Topic Title",i:0.5,a:"Topic Title Delete this text and replace it with your own content.   File System publish   GIT PUBLISH"},"1":{y:0,u:"../Content/DELETE ME.htm",l:-1,t:"DELETE ME",i:0.5,a:"DELETE ME Delete this text and replace it with your own content."},});
